@@ -106,5 +106,16 @@ ion-icon {
     text-decoration: none;
     border-bottom: 1px solid #f56303;
 }
+.footer-signture {
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid #f56303;
 
-
+}
+.footer-signture p {
+    color: aliceblue;
+    margin-top: 5px;
+}
+.signture {
+    color: #f56303;
+}
